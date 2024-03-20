@@ -16,7 +16,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-I learned how to work with rm for font sizes as well as work tables.
+I learned how to work with rm for font sizes as well as tables.
 
 ### Continued development
 
